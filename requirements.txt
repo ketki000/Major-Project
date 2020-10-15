@@ -1,0 +1,8 @@
+TextBlob
+WordCloud
+re
+matplotlib
+streamlit
+pandas
+numpy 
+sklearn
