@@ -1,2 +1,6 @@
 # Major-Project
 I have performed a sentimental analysis,on the tweets COVID time,using NLP libraries such as wordcloud,textblob,Naive Bayes &amp; Tfidf Vectorizer.
+
+
+# Sentiment-app-streamlit
+Deployment on Heroku Cloud
