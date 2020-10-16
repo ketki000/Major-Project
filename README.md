@@ -6,3 +6,5 @@ I have performed a sentimental analysis,on the tweets COVID time,using NLP libra
 Deployment on Heroku Cloud
 
 link -  https://ketkisentimentanalysisapp.herokuapp.com/
+
+DATA - https://drive.google.com/file/d/1cpgvRHqekL9IXROWOEsDoJrIMEI-UNq7/view?usp=sharing
