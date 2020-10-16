@@ -4,3 +4,5 @@ I have performed a sentimental analysis,on the tweets COVID time,using NLP libra
 
 # Sentiment-app-streamlit
 Deployment on Heroku Cloud
+
+link -  https://ketkisentimentanalysisapp.herokuapp.com/
