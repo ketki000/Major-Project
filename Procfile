@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run ketkisentimentanalysisapp.py
+web: sh setup.sh && streamlit run deployment.py
